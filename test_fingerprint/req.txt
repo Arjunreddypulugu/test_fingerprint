@@ -1,2 +1,2 @@
 streamlit
-streamlit-js-eval
+streamlit_js_eval
